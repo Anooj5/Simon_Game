@@ -7,7 +7,7 @@ Repeat the correct color sequence as it grows longer with each level. One wrong 
 
 ## 🎮 Live Demo
 
-👉 
+👉  https://anooj5.github.io/Simon_Game/
 
 ---
 
